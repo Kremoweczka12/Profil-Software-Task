@@ -1,4 +1,4 @@
-sample command to run a script:
+sample command to run a script (from folder where the script is placed):
 
 ./main.py -ic -feil email-sent.logs -gbd -s agus
 
